@@ -1,0 +1,9 @@
+<toolSet name="npm">
+  <tool name="watch" description="Watch for changes and rebuild" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="nvm" />
+      <option name="PARAMETERS" value="exec npm run watch -- --progress" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Development/BambooHR/main/ui-src" />
+    </exec>
+  </tool>
+</toolSet>
