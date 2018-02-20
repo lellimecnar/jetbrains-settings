@@ -1,4 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FILTER_LEGALS" value="true" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="ProjectViewFileNesting">
     <nesting-rules>
       <NestingRule child-file-suffix=".js" parent-file-suffix=".coffee" />
