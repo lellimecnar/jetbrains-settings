@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e5d1ace-326a-4816-bd09-9e05a2e50a2e" name="Vagrant" url="http://astolat.local.bamboohr.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

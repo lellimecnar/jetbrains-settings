@@ -1,24 +1,4 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Roboto Mono" />
-    <option name="LINE_SPACING" value="1.4" />
-    <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="JSX Harmony" value="true" />
-      </map>
-    </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
   </component>
