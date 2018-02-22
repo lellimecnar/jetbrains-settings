@@ -1,0 +1,9 @@
+<toolSet name="vagrant">
+  <tool name="vagrant up" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="vagrant" />
+      <option name="PARAMETERS" value="up" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Development/BambooHR/main" />
+    </exec>
+  </tool>
+</toolSet>
