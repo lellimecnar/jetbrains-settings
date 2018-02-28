@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="FE" />
-    <option name="defaultScopeName" value="FE" />
+    <option name="customScope" value="CSS" />
+    <option name="defaultScopeName" value="CSS" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="FE" />
+    <option name="SEARCH_SCOPE" value="CSS" />
   </component>
 </application>
