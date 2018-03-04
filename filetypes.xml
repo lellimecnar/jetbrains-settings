@@ -5,6 +5,7 @@
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="cron/run" type="PLAIN_TEXT" />
       <mapping pattern="plexdrive/run" type="PLAIN_TEXT" />
+      <mapping pattern="upload" type="PLAIN_TEXT" />
       <mapping pattern=".s6-svscan/finish" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern="finish" type="PLAIN_TEXT" />
